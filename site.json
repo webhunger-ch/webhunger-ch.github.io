@@ -1,0 +1,26 @@
+{
+  "title": "webhunger",
+  "theme": "simple",
+  "version": "0.1.0",
+  "globalWidgets": [],
+  "pages": [
+    {
+      "title": "webhunger",
+      "path": "/",
+      "widgets": [
+        {
+          "name": "headline",
+          "content": {
+            "text": "Grüezi and welcome! 👋"
+          }
+        },
+        {
+          "name": "article",
+          "content": {
+            "text": "tbd."
+          }
+        }
+      ]
+    }
+  ]
+}
