@@ -1,3 +1,3 @@
-[submodule "themes/simple"]
-	path = themes/simple
-	url = git@github.com:webhunger-ch/snack-theme-simple.git
+[submodule "themes/clean"]
+	path = themes/clean
+	url = git@github.com:webhunger-ch/snack-theme-clean.git
