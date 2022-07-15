@@ -19,7 +19,8 @@
       "content": {
         "copyright": "2022 webhunger.ch",
         "links": [
-          { "name": "GitHub", "link": "https://github.com/webhunger-ch" }
+          { "name": "GitHub", "link": "https://github.com/webhunger-ch" },
+          { "name": "Instagram", "link": "https://www.instagram.com/webhunger.ch" }
         ]
       }
     }
