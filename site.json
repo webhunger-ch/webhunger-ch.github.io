@@ -2,6 +2,7 @@
   "title": "webhunger.ch",
   "theme": "clean",
   "version": "0.1.0",
+  "favicon": "favicon.png",
   "globalWidgets": [
     {
       "name": "menu",
